@@ -1,1 +1,1 @@
-# python_project_for_data_science
+This project uses web scraping to extract data from a page and analyze it.
